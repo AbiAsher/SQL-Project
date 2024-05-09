@@ -1,2 +1,2 @@
 # SQL-Project
-My SQL Project on COVID Pandemi
+My SQL Project on COVID Pandemic.
